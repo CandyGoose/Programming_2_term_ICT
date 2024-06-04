@@ -3,9 +3,9 @@
 
 ---
 
-- [Контрольные](https://github.com/VeraKasianenko/Programming_2_term_ICT/tree/main/kr)
+- [Контрольные](https://github.com/CandyGoose/Programming_2_term_ICT/tree/main/kr)
 
-- [Домашнее задание](https://github.com/VeraKasianenko/Programming_2_term_ICT/tree/main/dz)
+- [Домашнее задание](https://github.com/CandyGoose/Programming_2_term_ICT/tree/main/dz)
 
 __Материалы предоставлены [Игорем Смирновым](https://github.com/Blaaaaaze)__
 
@@ -218,7 +218,7 @@ finally:
 5. Запустите выборки данных с помощью
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/112972833/229228121-0a7cde90-c298-4c23-81ca-000ac6da3705.png" alt="image" width="600"/>
+<img src="img/img.png" alt="image" width="600"/>
 
 Рисунок 1. Схема БД music.db
 
